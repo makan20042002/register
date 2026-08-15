@@ -4,6 +4,12 @@
     "email": "makan20042002@gmail.com"
   },
   "record": {
-    "A": ["185.27.134.131"]
+    "NS": [
+      "ns1.byet.org",
+      "ns2.byet.org",
+      "ns3.byet.org",
+      "ns4.byet.org",
+      "ns5.byet.org"
+    ]
   }
 }
